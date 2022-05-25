@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aammeerraakhater
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning web development and ml
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning ml and AI
 
 
 <!---
