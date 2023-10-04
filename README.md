@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aammeerraakhater
-- 👀 I’m interested in full-stack web development
-- currently learning laravel, angular
+- currently wondering in the world exploring the possipilities and learning something new everyday 
 
 
 
