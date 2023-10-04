@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @aammeerraakhater
-- currently wandering in the world 💫exploring the possipilities and learning something new everyday 👁‍🗨
+- currently wandering in the world 💫exploring the possibilities
+   and learning something new every day 👁‍🗨
 
 
 
